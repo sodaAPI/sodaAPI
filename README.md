@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sodaAPI
-- 👀 I’m interested in Graphic Design, 3D Modelling/Render, Voxel 3D, Game Dev
+- 👀 I’m interested in Mobile Development, Game Development, Website Development
 - 🌱 I’m currently learning Flutter, Kotlin, Unity3D
 - 📫 How to reach me rafyrachmansyahh@gmail.com
 
