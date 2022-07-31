@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafy</h1>
 <h3 align="center">A junior android developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter, Kotlin, Javascript**
+- 🌱 I’m currently learning **Flutter, Kotlin, Unity3D**
 
-- 👨‍💻 All of my projects are available at [https://rafyyyr.notion.site/rafyyyr/Hey-I-m-Muhammad-Rafi-Rachmansyah-67927ce493d8498e8490d7f0369f5b5e](https://rafyyyr.notion.site/rafyyyr/Hey-I-m-Muhammad-Rafi-Rachmansyah-67927ce493d8498e8490d7f0369f5b5e)
+- 👨‍💻 All of my projects are available at [https://rafyyyr.notion.site/rafyyyr/Hey-I-m-Muhammad-Rafi-Rachmansyah-67927ce493d8498e8490d7f0369f5b5e](Here)
 
 - 📫 How to reach me **rafyrachmansyahh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Rjhrps3Mmg8m7xqL14tHdNpI59M4FAg_/view](https://drive.google.com/file/d/1Rjhrps3Mmg8m7xqL14tHdNpI59M4FAg_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
