@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Kotlin, Unity3D**
 
-- 👨‍💻 All of my projects are available at [https://rafyyyr.notion.site/rafyyyr/Hey-I-m-Muhammad-Rafi-Rachmansyah-67927ce493d8498e8490d7f0369f5b5e](Here)
+- 👨‍💻 All of my projects are available at [Here](https://rafyyyr.notion.site/rafyyyr/Hey-I-m-Muhammad-Rafi-Rachmansyah-67927ce493d8498e8490d7f0369f5b5e)
 
 - 📫 How to reach me **rafyrachmansyahh@gmail.com**
 
