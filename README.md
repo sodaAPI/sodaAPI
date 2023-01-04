@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafy</h1>
-<h3 align="center">A Junior Android Developer & Junior UI/UX Designer from Indonesia</h3>
+<h3 align="center">A Junior Software Engineer & Junior UI/UX Designer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Kotlin, React JS, React Native**
 
