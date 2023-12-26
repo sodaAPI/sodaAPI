@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafy</h1>
-<h3 align="center">A Junior Software Engineer & Junior UI/UX Designer from Indonesia</h3>
+<h3 align="center">A Junior Software Engineer & Junior UI Designer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Next JS, Flutter**
+- 🌱 I’m currently learning **Next.js, Three.js**
 
 - 👨‍💻 Some of my projects are available at [Here](https://rafyyyr.notion.site/rafyyyr/Hey-I-m-Muhammad-Rafi-Rachmansyah-67927ce493d8498e8490d7f0369f5b5e)
 
