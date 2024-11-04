@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Software Engineer & UI Designer from Indonesia</h3>
 
 # 💫 About Me:
-🔭 I’m currently looking for work<br>🌱 I’m currently learning Flutter, Go, and NextJS<br>👨‍💻 All of my projects are available at https://bit.ly/portofolio-rafy
+🔭 I’m currently looking for work<br>🌱 I’m currently learning React Native, and NextJS<br>👨‍💻 All of my projects are available at https://bit.ly/portofolio-rafy
 
 [![](https://visitcount.itsvg.in/api?id=sodaAPI&icon=7&color=11)](https://visitcount.itsvg.in)
 
